@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "d1",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "3871afc5-7660-4fa2-a389-7687e7b00f42",
+      "database_name": "VIDEOS_DB"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
